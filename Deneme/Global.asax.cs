@@ -11,6 +11,7 @@ namespace Deneme
     {
         protected void Application_Start()
         {
+            //dddd
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
         }
